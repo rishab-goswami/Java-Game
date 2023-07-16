@@ -1,4 +1,5 @@
-# Java-Game
+# 2019-Java-Group1
+Repository for our CS302 group project
 
 Steps to run game:
 
@@ -17,6 +18,3 @@ Steps to run game:
 7.Open "Launcher.java"
 
 8.Select "Run Launcher"
-
-(note the code is in 2019-Java-Group1-DELIVERABLES.zip not source code)
-
